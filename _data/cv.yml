@@ -41,31 +41,20 @@
     - title: <a href="https://github.com/anupamkliv/FedERA">FedERA</a>
       year: 2023
       description: FedERA is a modular and fully customizable open-source FL framework
-      
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
+    
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Causal Inference
+        - Machine learning for medicine
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
+        - Generative Modelling (2D/3D, reconstruction, manipulation, editing)
+        - Reinforcement Learning for perception tasks in the real world
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading Sci-Fi/Fiction, Chess, Table Tennis.
