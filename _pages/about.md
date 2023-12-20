@@ -17,7 +17,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am an incoming intern at [CynLr](https://www.cynlr.com/) (please check them out), a robotics research organisation where I will be working on Machine Vision, Reinforcement Learning and hardware-level computer vision. I have also worked with [Dr. Ranjitha Prasad] (https://sites.google.com/site/ranjithap/home) at IIIT-Delhi, [Prof Ravi Kiran S] (https://ravika.github.io/) at IIIT-H. I have also interned at [KLIV, IIT Kharagpur](https://iitkliv.github.io/).
+I am an incoming intern at [CynLr](https://www.cynlr.com/) (please check them out), a robotics research organisation where I will be working on Machine Vision, Reinforcement Learning and hardware-level computer vision. I have also worked with [Dr. Ranjitha Prasad](https://sites.google.com/site/ranjithap/home) at IIIT-Delhi, [Prof Ravi Kiran S](https://ravika.github.io/) at IIIT-H. I have also interned at [KLIV, IIT Kharagpur](https://iitkliv.github.io/).
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
