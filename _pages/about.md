@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Email: akshatbhandari15@gmail.com
+subtitle: Senior AI Researcher @ [Mars Rover Manipal](https://www.marsrovermanipal.com/)
 
 profile:
   align: right
