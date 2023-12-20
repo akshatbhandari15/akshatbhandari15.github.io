@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: akshatbhandari15@gmail.com
+subtitle: Email: akshatbhandari15
 
 profile:
   align: right
