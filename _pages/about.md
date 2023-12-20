@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.marsrovermanipal.com/'>Senior AI Researcher @ Mars Rover Manipal</a>
+subtitle: Senior AI Researcher @ <a href='https://www.marsrovermanipal.com/'>Mars Rover Manipal</a>
 
 profile:
   align: right
