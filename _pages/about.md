@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink:
 subtitle: Email: akshatbhandari15@gmail.com
 profile:
   align: right
