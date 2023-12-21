@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior AI Researcher @ <a href='https://www.marsrovermanipal.com/'>Mars Rover Manipal</a>
+subtitle: Senior AI Researcher @ <a href='https://www.marsrovermanipal.com/'>Mars Rover Manipal</a>, CSE Senior @ MIT, Manipal
 
 profile:
   align: right
