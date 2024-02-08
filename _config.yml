@@ -354,9 +354,6 @@ jekyll-diagrams:
     # feel free to comment out this section if not using jekyll diagrams.
 
 jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-123-456          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
   Plausible:
     domain: 'akshatbhandari15.github.io'   # The domain configured in plausible
     source: 'https://plausible.io/js/script.js' # The source of the javascript
