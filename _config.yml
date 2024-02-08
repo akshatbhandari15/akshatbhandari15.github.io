@@ -214,7 +214,6 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-analytics
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
@@ -353,10 +352,6 @@ jekyll-diagrams:
     # configuration, see https://github.com/zhustec/jekyll-diagrams.
     # feel free to comment out this section if not using jekyll diagrams.
 
-jekyll_analytics:
-  Plausible:
-    domain: 'akshatbhandari15.github.io'   # The domain configured in plausible
-    source: 'https://plausible.io/js/script.js' # The source of the javascript
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
