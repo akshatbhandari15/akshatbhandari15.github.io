@@ -214,6 +214,7 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
+  - jekyll-analytics
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
