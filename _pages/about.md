@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: Researcher @ <a href='https://www.lcs2.in/'>LCS2, IIT Delhi</a>, Alum @ MIT, Manipal
 
 profile:
